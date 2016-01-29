@@ -1,0 +1,4 @@
+sceneSetups:
+- path: C:/Users/Rui/Desktop/WK1 UNITY/New Unity Project/Assets/wk1.unity
+  isLoaded: 1
+  isActive: 1
